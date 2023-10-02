@@ -3,7 +3,9 @@ Compute the area of a triangle'''
 
 import math
 
-radius = int (input ("Enter radius: "))
-area= radius * radius * math.pi
+height = int (input ("Enter height: "))
+base = int (int (input ("Enter base: ")))
 
-print (area)
+area = 0.5 * height * base
+
+print ("Area of triangle=",area)
