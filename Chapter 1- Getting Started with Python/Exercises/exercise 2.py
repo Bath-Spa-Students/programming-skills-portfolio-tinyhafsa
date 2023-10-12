@@ -1,6 +1,7 @@
 ## Exercise 2: Print the Version of Python
 
+#imported system library
 import sys
 
-print("Python version:")
-print(sys.version)
+#printed python system version
+print("Python version:" , sys.version)
