@@ -1,5 +1,4 @@
-'''Exercise 4: Strings Concatination :ballot_box_with_check:
-Write three strings in different variables and print the output as one string.'''
+#Exercise 4: Strings Concatination
 
 value_1 = "Road "
 value_2 = "of "
