@@ -1,7 +1,7 @@
 #Exercise 2: Greetings
 
 #variables
-names = ("Khadeeja" , "Alishba" , "Amna" , "Rabiya")
+names = ["Khadeeja" , "Alishba" , "Amna" , "Rabiya"]
 
 #printed list statements with f'string
 #with first item in list
