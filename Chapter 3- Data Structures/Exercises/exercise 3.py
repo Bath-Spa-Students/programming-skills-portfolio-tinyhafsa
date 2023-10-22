@@ -1,7 +1,7 @@
 #Exercise 3: Your Own List 
 
 #list of favourite car companies
-company= "Honda car" , "Mercedes bike" , "Toyota minivan" , "Tesla car"
+company= ["Honda car" , "Mercedes bike" , "Toyota minivan" , "Tesla car"]
 
 #first print statement of first item in list
 print (f"I don't like the {company[0]}.")
