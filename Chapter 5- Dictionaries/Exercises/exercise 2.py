@@ -1,11 +1,12 @@
 # Exercise 2: Glossary
 
 #storing words and meanings as keys and values in a dictionary
-glossary = {"print" : "display." ,
-            "variable" : "container for storing data values." ,
-            "string" : "piece of text surrounded by quotations." ,
-            "concatenation" : "using + operator to join strings together." ,
-            "Boolean" : "data type with only two values (True and False)."}
+glossary = {"print" : "display." , #1
+            "variable" : "container for storing data values." , #2
+            "string" : "piece of text surrounded by quotations." , #3
+            "concatenation" : "using + operator to join strings together." , #4
+            "Boolean" : "data type with only two values (True and False)." #5
+            } 
 
 word1 = "print" #decalring key as variable and printing word and meaning
 print (f"{word1}: {glossary[word1]}")
