@@ -7,3 +7,4 @@ base = int (int (input ("Enter base: ")))
 area = 0.5 * height * base
 
 print ("Area of triangle=",area)
+
