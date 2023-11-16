@@ -7,3 +7,4 @@ value_3 = "road of life."
 
 #variables printed as one string
 print (value_1 + value_2 + value_3)
+

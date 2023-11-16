@@ -6,3 +6,4 @@ now = datetime.now()
 
 #printed date and time
 print ("Current date and time: ", now)
+
